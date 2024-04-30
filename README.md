@@ -5,7 +5,7 @@ Our goal is to perform genomic analyses of all Streptococcus pyogenes isolates s
 ## Bactopia 
 To do this we performed a bactopia run on all SHL samples (listed in `20240122_gas_sample_sheet.csv`).
 
-`bactopia --samples 20240122_gas_sample_sheet.csv --outdir 20240122_gas --run_name 20240122_gas -profile docker
+`bactopia --samples 20240122_gas_sample_sheet.csv --outdir 20240122_gas --run_name 20240122_gas -profile docker`
 
 We also performed emmtyping and traditional MLST within bactopia.
 
